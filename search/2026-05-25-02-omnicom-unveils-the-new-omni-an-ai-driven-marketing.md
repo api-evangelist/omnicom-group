@@ -1,0 +1,10 @@
+---
+title: 'Omnicom Unveils the New Omni: an AI-Driven Marketing ...'
+url: https://www.prnewswire.com/news-releases/omnicom-unveils-the-new-omni-an-ai-driven-marketing-intelligence-platform-delivering-measurable-sales-growth-for-brands-302654787.html
+date: '2026-05-25'
+query: Omnicom Group artificial intelligence
+position: 2
+source: serpapi-google
+displayed_link: https://www.prnewswire.com › news-releases › omnicom...
+---
+Omni uses AI to surface insights, recommend optimizations, and highlight emerging opportunities—but it does so with transparency and human ...
