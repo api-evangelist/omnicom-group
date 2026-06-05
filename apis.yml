@@ -1,4 +1,6 @@
 aid: omnicom-group
+tags:
+  - Fortune 500
 url: https://raw.githubusercontent.com/api-evangelist/omnicom-group/refs/heads/main/apis.yml
 name: Omnicom Group
 type: Index
