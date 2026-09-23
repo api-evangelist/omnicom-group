@@ -1,7 +1,9 @@
 ---
 title: Omnicom's layoffs come as the advertising industry ...
 url: https://www.facebook.com/FastCompany/posts/omnicoms-layoffs-come-as-the-advertising-industry-competes-with-ai-reshaping-cre/1228254195835707/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Omnicom Group" press release artificial intelligence'
 position: 4
 source: serpapi-google

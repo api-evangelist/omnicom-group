@@ -1,7 +1,9 @@
 ---
 title: 'Omnicom AI: Strategy in PR Dominance'
 url: https://www.klover.ai/omnicom_ai_strategy_in_pr_dominance/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Omnicom Group" press release artificial intelligence'
 position: 2
 source: serpapi-google
